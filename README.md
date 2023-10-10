@@ -23,6 +23,6 @@ npm install --save-dev vite
 
 ```bash
   npx vite
-  
+
 ```
 
