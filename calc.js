@@ -22,7 +22,7 @@ class Calculator {
         if (this.display.includes('-')) {
             length --
         }
-        if (length >= 6) {
+        if (length >= 8) {
             return
         }
         this.display += number
